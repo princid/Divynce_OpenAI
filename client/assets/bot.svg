@@ -1,0 +1,36 @@
+<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+<path style="fill:#E3E8F6;" d="M48,48H16c-2.209,0-4-1.791-4-4V20c0-2.209,1.791-4,4-4h32c2.209,0,4,1.791,4,4v24
+		C52,46.209,50.209,48,48,48z" id="id_126"></path>
+<rect x="16" y="20" style="fill:#F8F7FE;" width="32" height="24" id="id_127"></rect>
+<rect x="19" y="20" style="fill:#FFFFFF;" width="29" height="24" id="id_128"></rect>
+<path style="fill:#E3E8F6;" d="M49,52H15c-1.657,0-3,1.343-3,3v7h40v-7C52,53.343,50.657,52,49,52z" id="id_129"></path>
+<path style="fill:#3079E6;" d="M12.184,54H9c-1.657,0-3,1.343-3,3v5h6v-7C12,54.647,12.072,54.314,12.184,54z" id="id_130"></path>
+<path style="fill:#3079E6;" d="M55,54h-3.184C51.928,54.314,52,54.647,52,55v7h6v-5C58,55.343,56.657,54,55,54z" id="id_131"></path>
+<path style="fill:#F8F7FE;" d="M49,52H18c-1.657,0-3,1.343-3,3v7h37v-7C52,53.343,50.657,52,49,52z" id="id_132"></path>
+<rect x="27" y="48" style="fill:#2763BB;" width="10" height="4" id="id_133"></rect>
+<rect x="29" y="48" style="fill:#3079E6;" width="8" height="4" id="id_134"></rect>
+<g>
+<rect x="52" y="57" style="fill:#2763BB;" width="6" height="2" id="id_135"></rect>
+</g>
+<g>
+<rect x="6" y="57" style="fill:#2763BB;" width="6" height="2" id="id_136"></rect>
+</g>
+<path style="fill:#3079E6;" d="M44,12H20c-1.105,0-2,0.895-2,2v2h28v-2C46,12.895,45.105,12,44,12z" id="id_137"></path>
+<rect x="21" y="58" style="fill:#2763BB;" width="22" height="4" id="id_138"></rect>
+<rect x="24" y="58" style="fill:#3079E6;" width="19" height="4" id="id_139"></rect>
+<path style="fill:#3079E6;" d="M9,23c-1.657,0-3,1.343-3,3v12c0,1.657,1.343,3,3,3h3V23H9z" id="id_140"></path>
+<path style="fill:#3079E6;" d="M55,23h-3v18h3c1.657,0,3-1.343,3-3V26C58,24.343,56.657,23,55,23z" id="id_141"></path>
+<g>
+<rect x="31" y="4.999" style="fill:#E3E8F6;" width="2" height="7.001" id="id_142"></rect>
+</g>
+<circle style="fill:#2763BB;" cx="32" cy="4" r="2" id="id_143"></circle>
+<ellipse style="fill:#3079E6;" cx="32.5" cy="4" rx="1.5" ry="1.929" id="id_144"></ellipse>
+<circle style="fill:#2763BB;" cx="32" cy="32" r="2" id="id_145"></circle>
+<ellipse style="fill:#3079E6;" cx="32.5" cy="32" rx="1.5" ry="1.929" id="id_146"></ellipse>
+<circle style="fill:#2763BB;" cx="24" cy="32" r="2" id="id_147"></circle>
+<ellipse style="fill:#3079E6;" cx="24.5" cy="32" rx="1.5" ry="1.929" id="id_148"></ellipse>
+<circle style="fill:#2763BB;" cx="40" cy="32" r="2" id="id_149"></circle>
+<ellipse style="fill:#3079E6;" cx="40.5" cy="32" rx="1.5" ry="1.929" id="id_150"></ellipse>
+</g>
+</svg>
