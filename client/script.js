@@ -87,7 +87,7 @@ const handleSubmit = async (e) => {
   loader(messageDiv);
 
   //we can fetch the data from the server using fetch api and post method -> bot's response
-  const response = await fetch("http://localhost:5000", {
+  const response = await fetch("https://divynce.onrender.com", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
