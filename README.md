@@ -7,7 +7,7 @@ Divynce is a chatbot, based on OpenAI's "text-davinci-003" model. In response to
 - Communication with advanced GPT-3 model API.
 - Users will have the ability to ask the AI for help.
 
-## Tech-Stack :
+## 👨‍💻 Technology Stack :
 - HTML
 - CSS
 - Vanilla JS
