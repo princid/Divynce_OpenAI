@@ -1,4 +1,5 @@
 # Divynce_OpenAI
 
 
-https://freeicons.io/apps-&-programming/applications-and-programming-user-application-identity-authentication-login-icon-41730
+
+### For Free SVG icons : Credit goes to (https://freeicons.io/)
