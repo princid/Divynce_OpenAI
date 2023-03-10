@@ -1,7 +1,7 @@
 ## Divynce :
 Divynce is a chatbot, based on OpenAI's "text-davinci-003" model. In response to the user's input, it is intended to produce human-like conversations.
 
-## 🌐 Live Website : divynce.netlify.app/
+## 🌐 Live Website : https://divynce.netlify.app/
 
 ## 🔍 About :
 - Building the first JavaScript AI.
