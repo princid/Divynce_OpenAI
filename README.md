@@ -17,5 +17,9 @@ Divynce is an AI chatbot, based on OpenAI's "text-davinci-003" model. In respons
 - NodeJS
 - OpenAI
 
+## Glimpse of the project :
+![image](https://user-images.githubusercontent.com/90444477/224256275-6879222f-902e-4493-9239-03a362e54ed2.png)
+
+
 
 ### For Free SVG icons : Credit goes to (https://freeicons.io/)
