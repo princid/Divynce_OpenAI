@@ -1,4 +1,6 @@
-# Divynce_OpenAI :
+## 🌐 Live Website : 
+
+## Divynce_OpenAI :
 Divynce is a chatbot, based on OpenAI's "text-davinci-003" model. In response to the user's input, it is intended to produce human-like conversations.
 
 ## 🔍 About :
